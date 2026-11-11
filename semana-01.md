@@ -1,4 +1,4 @@
-[🏠 Índice](../README.md) · [Semana 2 ➡️](semana-02.md)
+[🏠 Índice](README.md) · [Semana 2 ➡️](semana-02.md)
 
 ---
 
@@ -264,4 +264,4 @@ Contiene **4 compuertas AND de 2 entradas** en un encapsulado **DIP-14** (dos fi
 
 ---
 
-[🏠 Índice](../README.md) · [Semana 2 ➡️](semana-02.md)
+[🏠 Índice](README.md) · [Semana 2 ➡️](semana-02.md)
