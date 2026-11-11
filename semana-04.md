@@ -1,4 +1,4 @@
-[🏠 Índice](../README.md) · [⬅️ Semana 3](semana-03.md)
+[🏠 Índice](README.md) · [⬅️ Semana 3](semana-03.md)
 
 ---
 
@@ -221,7 +221,7 @@ flowchart LR
 
 ---
 
-[🏠 Índice](../README.md) · [⬅️ Semana 3](semana-03.md)
+[🏠 Índice](README.md) · [⬅️ Semana 3](semana-03.md)
 
 <div align="center">
 
