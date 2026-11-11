@@ -1,4 +1,4 @@
-[🏠 Índice](../README.md) · [⬅️ Semana 2](semana-02.md) · [Semana 4 ➡️](semana-04.md)
+[🏠 Índice](README.md) · [⬅️ Semana 2](semana-02.md) · [Semana 4 ➡️](semana-04.md)
 
 ---
 
@@ -266,4 +266,4 @@ Ejemplo con $F = A + BD + BC$:
 
 ---
 
-[🏠 Índice](../README.md) · [⬅️ Semana 2](semana-02.md) · [Semana 4 ➡️](semana-04.md)
+[🏠 Índice](README.md) · [⬅️ Semana 2](semana-02.md) · [Semana 4 ➡️](semana-04.md)
