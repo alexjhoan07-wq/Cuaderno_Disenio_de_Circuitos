@@ -41,10 +41,10 @@ Este cuaderno reúne, semana a semana, el resumen de lo aprendido en la **Unidad
 
 | Semana | Tema | Qué se aprende | Ir a la semana |
 |:---:|:---|:---|:---:|
-| **1** | Sistemas numéricos, códigos y compuertas lógicas | Conversión entre bases, complemento a dos, BCD, Gray, ASCII y las 7 compuertas | [Abrir](semanas/semana-01.md) |
-| **2** | Álgebra de Boole y formas canónicas | Postulados, teoremas, De Morgan, minitérminos, maxitérminos, SOP y POS | [Abrir](semanas/semana-02.md) |
-| **3** | Mapas de Karnaugh, indiferentes y NAND/NOR | Minimización SOP/POS, condiciones indiferentes, implementación con una sola familia | [Abrir](semanas/semana-03.md) |
-| **4** | Circuitos aritméticos | Semisumador, sumador completo, sumador de 4 bits, resta, overflow y comparador | [Abrir](semanas/semana-04.md) |
+| **1** | Sistemas numéricos, códigos y compuertas lógicas | Conversión entre bases, complemento a dos, BCD, Gray, ASCII y las 7 compuertas | [Abrir](semana-01.md) |
+| **2** | Álgebra de Boole y formas canónicas | Postulados, teoremas, De Morgan, minitérminos, maxitérminos, SOP y POS | [Abrir](semana-02.md) |
+| **3** | Mapas de Karnaugh, indiferentes y NAND/NOR | Minimización SOP/POS, condiciones indiferentes, implementación con una sola familia | [Abrir](semana-03.md) |
+| **4** | Circuitos aritméticos | Semisumador, sumador completo, sumador de 4 bits, resta, overflow y comparador | [Abrir](semana-04.md) |
 
 ---
 
