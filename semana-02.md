@@ -1,4 +1,4 @@
-[🏠 Índice](../README.md) · [⬅️ Semana 1](semana-01.md) · [Semana 3 ➡️](semana-03.md)
+[🏠 Índice](README.md) · [⬅️ Semana 1](semana-01.md) · [Semana 3 ➡️](semana-03.md)
 
 ---
 
@@ -261,4 +261,4 @@ $$\boxed{F = AB + AC + BC}$$
 
 ---
 
-[🏠 Índice](../README.md) · [⬅️ Semana 1](semana-01.md) · [Semana 3 ➡️](semana-03.md)
+[🏠 Índice](README.md) · [⬅️ Semana 1](semana-01.md) · [Semana 3 ➡️](semana-03.md)
