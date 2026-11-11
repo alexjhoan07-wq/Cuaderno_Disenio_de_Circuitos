@@ -103,6 +103,6 @@ cuaderno-diseno-circuitos/
 
 <div align="center">
 
-**Siguiente:** [Semana 1 · Sistemas numéricos, códigos y compuertas lógicas ➡️](semanas/semana-01.md)
+**Siguiente:** [Semana 1 · Sistemas numéricos, códigos y compuertas lógicas ➡️](semana-01.md)
 
 </div>
