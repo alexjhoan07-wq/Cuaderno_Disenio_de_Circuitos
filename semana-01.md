@@ -1,4 +1,4 @@
-[🏠 Índice](../README.md) · [Semana 2 ➡️](semana-02.md)
+[🏠 Índice](README.md) · [Semana 2 ➡️](semana-02.md)
 
 ---
 
@@ -272,4 +272,4 @@ Llegan $2.7 - 0.9 = 1.8\text{ V}$, que es menor que $2.0\text{ V}$ y mayor que $
 
 ---
 
-[🏠 Índice](../README.md) · [Semana 2 ➡️](semana-02.md)
+[🏠 Índice](README.md) · [Semana 2 ➡️](semana-02.md)
