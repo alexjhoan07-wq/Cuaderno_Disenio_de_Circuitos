@@ -41,10 +41,10 @@ Este cuaderno resume, semana a semana, la teoría de la **Unidad 1** de Diseño 
 
 | Apartado | Tema | Qué incluye | Ir a |
 |:---:|:---|:---|:---:|
-| **Semana 1** | Sistemas numéricos, códigos y compuertas lógicas | Bases numéricas, complemento a dos, BCD, Gray, ASCII, compuertas y 74LS08 | [Abrir](semanas/semana-01.md) |
-| **Semana 2** | Álgebra de Boole y formas canónicas | Postulados, teoremas, De Morgan, minitérminos, maxitérminos, SOP y POS | [Abrir](semanas/semana-02.md) |
-| **Semana 3** | Mapas de Karnaugh, indiferentes y NAND/NOR | Minimización SOP/POS, condiciones indiferentes, implementación NAND-NAND | [Abrir](semanas/semana-03.md) |
-| **Semana 4** | Circuitos aritméticos | Semisumador, sumador completo, ripple carry, resta, overflow y comparador | [Abrir](semanas/semana-04.md) |
+| **Semana 1** | Sistemas numéricos, códigos y compuertas lógicas | Bases numéricas, complemento a dos, BCD, Gray, ASCII, compuertas y 74LS08 | [Abrir](semana-01.md) |
+| **Semana 2** | Álgebra de Boole y formas canónicas | Postulados, teoremas, De Morgan, minitérminos, maxitérminos, SOP y POS | [Abrir](semana-02.md) |
+| **Semana 3** | Mapas de Karnaugh, indiferentes y NAND/NOR | Minimización SOP/POS, condiciones indiferentes, implementación NAND-NAND | [Abrir](semana-03.md) |
+| **Semana 4** | Circuitos aritméticos | Semisumador, sumador completo, ripple carry, resta, overflow y comparador | [Abrir](semana-04.md) |
 | **Declaración** | Uso de inteligencia artificial | Herramienta, tareas y responsabilidad | [Abrir](declaracion-uso-ia.md) |
 
 ---
@@ -101,6 +101,6 @@ cuaderno-diseno-circuitos/
 
 <div align="center">
 
-**Siguiente:** [Semana 1 · Sistemas numéricos, códigos y compuertas lógicas ➡️](semanas/semana-01.md)
+**Siguiente:** [Semana 1 · Sistemas numéricos, códigos y compuertas lógicas ➡️](semana-01.md)
 
 </div>
