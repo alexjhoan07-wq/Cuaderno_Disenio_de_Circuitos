@@ -38,10 +38,8 @@
 |:---|:---|
 | **Resumen de contenido** | Organizar y resumir en Markdown el contenido de las 5 diapositivas de la unidad |
 | **Estructura y legibilidad** | Proponer el índice, la navegación entre páginas, las tablas y los diagramas Mermaid |
-| **Ejercicios propuestos** | Redactar ejercicios nuevos con su solución para cada semana |
-| **Documento de entrega** | Generar el archivo de Word con la portada y el enlace al repositorio |
 
-**Instrucciones dadas a la IA (resumen):** resumir el contenido de cada semana, sin proyecto integrador, sin ejemplos repetidos y sin las actividades incluidas en los documentos; incluir solo la teoría, ejercicios nuevos y esta declaración; aplicar navegabilidad, claridad, orden y legibilidad.
+
 
 ## 4. Qué no aportó la IA
 
