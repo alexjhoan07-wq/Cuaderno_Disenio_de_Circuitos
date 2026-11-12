@@ -52,9 +52,6 @@
 
 Declaro que revisé el contenido generado, lo contrasté con las diapositivas de la asignatura y comprobé los ejercicios y sus soluciones antes de entregarlo. Soy responsable del contenido final de este cuaderno.
 
-> [!NOTE]
-> Las herramientas de IA pueden cometer errores. Ante cualquier diferencia, prevalece el material oficial de la asignatura.
-
 **Jhoan Alexander Rojas Guaman**
 Loja, noviembre de 2026
 
