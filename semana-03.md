@@ -1,4 +1,4 @@
-[🏠 Índice](../README.md) · [⬅️ Semana 2](semana-02.md) · [Semana 4 ➡️](semana-04.md)
+[🏠 Índice](README.md) · [⬅️ Semana 2](semana-02.md) · [Semana 4 ➡️](semana-04.md)
 
 ---
 
@@ -327,4 +327,4 @@ Son 4 compuertas NOR (un integrado 7402).
 
 ---
 
-[🏠 Índice](../README.md) · [⬅️ Semana 2](semana-02.md) · [Semana 4 ➡️](semana-04.md)
+[🏠 Índice](README.md) · [⬅️ Semana 2](semana-02.md) · [Semana 4 ➡️](semana-04.md)
