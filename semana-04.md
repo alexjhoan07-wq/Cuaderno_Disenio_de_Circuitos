@@ -1,4 +1,4 @@
-[🏠 Índice](../README.md) · [⬅️ Semana 3](semana-03.md) · [Declaración de IA ➡️](../declaracion-uso-ia.md)
+[🏠 Índice](README.md) · [⬅️ Semana 3](semana-03.md) · [Declaración de IA ➡️](declaracion-uso-ia.md)
 
 ---
 
@@ -255,4 +255,4 @@ Desde el MSB: los dos primeros bits son iguales y el tercero es el primero que d
 
 ---
 
-[🏠 Índice](../README.md) · [⬅️ Semana 3](semana-03.md) · [Declaración de IA ➡️](../declaracion-uso-ia.md)
+[🏠 Índice](README.md) · [⬅️ Semana 3](semana-03.md) · [Declaración de IA ➡️](declaracion-uso-ia.md)
